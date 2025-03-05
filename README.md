@@ -1,4 +1,4 @@
-Just a simple PowerShell script thah changes GTA V Enhanced version to modded or legit (online).
+Just a simple PowerShell script that changes GTA V Enhanced version to modded or legit (online).
 
 # How to use ?
 
