@@ -1,3 +1,5 @@
+Just a simple PowerShell script thah changes GTA V Enhanced version to modded or legit (online).
+
 # How to use ?
 
 Download the script (*Run GTA.ps1*) and move it anywhere.
