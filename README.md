@@ -1,1 +1,1 @@
-A simple script tchat changes GTA to the legit mode (online) or modded mode
+A simple script that changes GTA to the legit mode (online) or the modded mode
