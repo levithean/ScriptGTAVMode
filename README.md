@@ -11,4 +11,4 @@ powershell -ExecutionPolicy Bypass -File "PathofScriptFile"
 It's possible the script doesn't work because of the PowerShell version.
 I recommend to use PowerShell v7.0 or highter.
 
-Just be sure your GTA V modded directory is renamed to ***Grand Theft Auto V M*** and your original Enhanced version to ***Grand Theft Auto V O***.
+Just be sure your GTA V modded directory is renamed to ***Grand Theft Auto V Enhanced M*** and your original Enhanced version to ***Grand Theft Auto V Enhanced O***.
