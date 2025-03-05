@@ -55,6 +55,11 @@ class GTAScript {
                     Write-Output "Vous etes deja sur la version legit !"
                 }
             }
+
+            Default {
+
+                Write-Output "Choix incorrect !"
+            }
         }
     }
 }
